@@ -53,5 +53,5 @@
 
 
 ## Extension
-Finished everything above? [Here's](https://github.com/codebug-nc/NashWD-3C-Extension) an exercise you can start on. 
+Finished everything above? [Go here](https://github.com/codebug-nc/NCWD-2E) to return to your dream vacation website and add some styles to it!! 
 
