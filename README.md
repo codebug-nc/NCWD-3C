@@ -53,5 +53,5 @@
 
 
 ## Extension
-Finished everything above? [Here's](https://github.com/codebug-us/NashWD-2-Extension) an exercise you can start on. 
+Finished everything above? [Here's](https://github.com/codebug-nc/NashWD-3C-Extension) an exercise you can start on. 
 
